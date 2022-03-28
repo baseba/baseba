@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baseba
 - 👀 I’m interested in web developiong and cyber security
-- 🌱 I’m currently learning next.js, firebase and three.js
+- 🌱 I’m currently learning next.js, firebase and django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
